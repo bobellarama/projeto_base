@@ -1,0 +1,26 @@
+{
+  "name": "projeto-base",
+  "version": "1.0.0",
+  "description": "Projeto nº 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobellarama/projeto_base.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "Rama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobellarama/projeto_base/issues"
+  },
+  "homepage": "https://github.com/bobellarama/projeto_base#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
